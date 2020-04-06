@@ -33,5 +33,5 @@ class Solution {
         answer = n - lost.length + brw_cnt;
         return answer;
     }
-    
+   
 }
