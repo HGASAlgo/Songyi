@@ -24,7 +24,7 @@ class Solution {
         moveCnt = names.length - 1;
         
         for(int i = names.length - 1; i > 0; i--) {
-            if(names[i] == 'A') {
+            if(names[i] != 'A') {
                 moveCnt = i;
                 break;
             }
