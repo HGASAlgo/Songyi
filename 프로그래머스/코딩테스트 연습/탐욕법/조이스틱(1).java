@@ -14,6 +14,8 @@ class Solution {
                     countA ++;
                     nextIdx++;
                 }
+                // 맨앞에서부터 i전(i-1)까지 갔다가 다시 맨앞으로 돌아간 수 카운트 + 뒤로 가서 연속된 A전까지 카운트
+                //  (맨앞->i앞에->맨앞) + (글자수-뒤로갈때카운트수(=1)-처음부터i까지카운트수(=i)-연속된 A개수)
                 int tmp = (i-1)*2 + (name.length() -1 -i - countA) ;
                 if(exp > tmp) exp = tmp;
             }
