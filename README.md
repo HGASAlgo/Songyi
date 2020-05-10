@@ -19,3 +19,5 @@
 
 ##### 6. [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) - 04.30.20    
 
+##### 7. [저울](https://programmers.co.kr/learn/courses/30/lessons/42886) - 05.10.20     
+
