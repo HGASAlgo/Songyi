@@ -21,3 +21,8 @@
 
 ##### 7. [저울](https://programmers.co.kr/learn/courses/30/lessons/42886) - 05.10.20     
 
+### 깊이/너비 우선 탐색(DFS/BFS)    
+
+#### Level2.    
+
+##### 1. [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - 05.17.20    
