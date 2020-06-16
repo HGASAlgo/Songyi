@@ -26,3 +26,10 @@
 #### Level2.    
 
 ##### 1. [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - 05.17.20    
+
+## *<백준 알고리즘>*  
+
+### 깊이 우선 탐색(DFS)  
+
+##### 1. [로또] https://www.acmicpc.net/problem/6603 - 06.16.20    
+
