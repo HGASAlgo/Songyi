@@ -31,5 +31,5 @@
 
 ### 깊이 우선 탐색(DFS)  
 
-##### 1. [로또] https://www.acmicpc.net/problem/6603 - 06.16.20    
+##### 1. [로또](https://www.acmicpc.net/problem/6603) - 06.16.20    
 
